@@ -1,5 +1,5 @@
 # SpiceJet
-This is the TestNG file for automation of SpiceJet Website. The steps of automation is given below 
+This is the TestNG file for automation of SpiceJet Website. The steps of automation is given below : </br></br>
 LOGIN -> FLIGHT FINDER -> SELECT FLIGHT -> BOOK FLIGHT -> FLIGHT CONFIRMATION -> LOGOUT
 
 > 1. LAUNCHING OF WEBSITE 
