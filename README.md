@@ -1,5 +1,8 @@
 # SpiceJet
-This is the TestNG file for automation of SpiceJet Website. The steps of automation is given below : </br></br>
+
+* TestNG automation project in Java Selenium.</br>
+* The implemented automation framework is 100% open source and the components are as follows: </br>Eclipse, Java, Selenium, JUnit, Apache POI, TestNG.</br>
+* Steps are as follow : </br></br>
 LOGIN -> FLIGHT FINDER -> SELECT FLIGHT -> BOOK FLIGHT -> FLIGHT CONFIRMATION -> LOGOUT
 
 > 1. LAUNCHING OF WEBSITE 
